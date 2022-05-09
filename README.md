@@ -1,5 +1,15 @@
-<p>Meu nome é Luiz Miguel Rosso Formigoni, eu tenho 18 anos, eu nasci em um hospital em Sombrio SC, morei em balneário gaivota até meus 16 anos, fiz meu ensino fundamental em uma escola publica chamada E.E.F Professor Darcy Ribeiro, como esta escola não tinha ensino médio eu fiz maior parte do meu primeiro ano em uma escola federal em Sombrio, a escola se chamava Instituto Federal Catarinense (IFC), mas voltei para uma escola estadual no final do primeiro ano, um pouco depois do inicio do segundo ano eu me mudei para Turvo SC, e mudei de escola consequentemente, agora eu estudava em uma outra escola estadual, onde eu terminei meu ensino médio.</br>
-<p>Durante meu ensino médio eu fiz coisas que me ajudam hoje e coisas que se eu pudesse voltar atras não teria feito, mas vou focar nas coisas boas, eu aprendi a lógica de programação, melhorei meu inglês, estudeis línguas diferente como Russo, coreano, japonês..., não sei falar elas, mas tenho conhecimento da base dessas línguas.</br>
-<p>Atualmente estou fazendo Engenharia de Software, na universidade satc (UNISATC), estou gostando do curso, é muito difícil isso eu admito porém não acredito que seja impossível, escolher este curso não foi fácil, fiz outras escolhas antes dele, mas acho que esta foi a escolha que melhor se encaixou comigo, e espero que um dia eu possa voltar e ver por tudo que eu passei para chegar até lá, e possa encontrar uma forma de levar o meu conhecimento a quem necessitar e poder ajudar aqueles que não tem as mesmas oportunidades que eu tive até agora na minha vida.</br>
-<p>Eu não tenho nada para reclamar da minha vida, acredito que eu poderia estar melhor hoje se tivesse feito algumas coisas diferentes no passado, mas se eu pudesse voltar no tempo agora, eu não mudaria nada da minha história, tudo que eu fiz até hoje me fez chegar até aqui.
+##Olá
+
+
+<div align="center">
+  <a href="https://github.com/Miguelito001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguelito001&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelito001&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
