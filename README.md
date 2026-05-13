@@ -9,7 +9,7 @@ Sou um estudante/desenvolvedor apaixonado por tecnologia e em constante aprendiz
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🚀 Projetos em Destaque
-- **[🔐 EncodeHub 2.0](https://github.com/Miguelito001/EncodeHub2.0)**: *[Insira aqui uma frase de impacto, ex: Uma plataforma completa para conversão, codificação e manipulação de dados, agora em sua segunda versão com arquitetura refatorada.]*
+- **[🔐 EncodeHub 2.0](https://github.com/Miguelito001/EncodeHub2.0)**: *É uma ferramenta online completa para conversão, formatação e manipulação de dados, criada para desenvolvedores e usuários técnicos que precisam de eficiência em suas tarefas do dia a dia.*
 
 ### 📊 Minhas Estatísticas do GitHub
 <!-- Isso gera um card automático com seus status! -->
