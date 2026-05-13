@@ -10,14 +10,3 @@ Sou um estudante/desenvolvedor apaixonado por tecnologia e em constante aprendiz
 
 ### 🚀 Projetos em Destaque
 - **[🔐 EncodeHub 2.0](https://github.com/Miguelito001/EncodeHub2.0)**: *É uma ferramenta online completa para conversão, formatação e manipulação de dados, criada para desenvolvedores e usuários técnicos que precisam de eficiência em suas tarefas do dia a dia.*
-
-### 📊 Minhas Estatísticas do GitHub
-<!-- Isso gera um card automático com seus status! -->
-<div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Miguelito001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Miguelito001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelito001&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelito001&layout=compact&theme=dracula)"/>
-</div>
-
-### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miguelito001/](https://www.linkedin.com/in/miguelito001/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:software.rosso@gmail.com)
