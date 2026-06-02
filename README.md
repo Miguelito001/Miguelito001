@@ -11,6 +11,6 @@ Sou um estudante/desenvolvedor apaixonado por tecnologia e em constante aprendiz
 ### 🚀 Projetos em Destaque
 - **[🔐 EncodeHub 2.0](https://github.com/Miguelito001/EncodeHub2.0)**: *É uma ferramenta online completa para conversão, formatação e manipulação de dados, criada para desenvolvedores e usuários técnicos que precisam de eficiência em suas tarefas do dia a dia.*
 
-<a href="https://www.credly.com/users/luiz-miguel-rosso-formigoni/badges">
+<a href="https://www.credly.com/users/Miguelito001/badges">
   <img src="https://credly-readme-stats.onrender.com/api/overview?username=luiz-miguel-rosso-formigoni&theme=github_dark" alt="Meus Badges do Credly" />
 </a>
