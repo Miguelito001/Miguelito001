@@ -1,62 +1,48 @@
-# Olá, eu sou o Luiz Miguel! 👋
+# Luiz Miguel — Software Developer
 
-### Desenvolvedor de Software | Automação • Integrações • Backend
+**Backend • Systems Integration • Automation • TypeScript**
 
-Desenvolvedor de software focado em **automação de processos, integrações entre sistemas e desenvolvimento backend**.
+Software developer working on enterprise systems, business rules, data processing, reporting and integrations. My professional work focuses on **Groovy, SQL, Python and REST APIs**; I also build independent web products with **TypeScript, React and Next.js**.
 
-Atualmente trabalho com soluções corporativas utilizando principalmente **Groovy, Python, SQL e APIs REST**, transformando regras de negócio e problemas reais em soluções de software.
+[Portfolio](https://luizdesenvolvedor.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/miguelito001/) · [NoClipCode](https://www.noclipcode.com/)
 
-Também desenvolvo projetos próprios para explorar novas tecnologias, arquitetura e criação de produtos.
+## Selected work
 
----
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **NoClipCode** | A browser-first toolkit with **58 utilities** for developers; local file processing and a privacy-first design | [Source](https://github.com/Miguelito001/NoClipCode) · [Live](https://www.noclipcode.com/) |
+| **NoClipExtension** | A Chrome extension for text snippets and developer utilities, including support for input fields, contenteditable and CodeMirror 5 | [Source](https://github.com/Miguelito001/NoClipExtension) |
+| **かな。** | A Japanese-learning application covering writing, vocabulary, grammar, listening and reading | [Source](https://github.com/Miguelito001/kana) · [Live](https://kana-treino-rapido.software-rosso.chatgpt.site) |
 
-## 🛠️ Tecnologias
+## Professional experience
 
-### Backend & Automação
+- Developing and maintaining scripts, reports and integrations for enterprise software.
+- Investigating data inconsistencies, applying business rules and troubleshooting production issues.
+- Working with relational data, APIs and operational workflows.
+- Building public personal projects independently, from implementation to release.
 
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## Technology
 
-### Web
+- **Professional:** Groovy · SQL · Python · REST APIs
+- **Web projects:** TypeScript · JavaScript · React · Next.js · Tailwind CSS
+- **Databases and tools:** PostgreSQL · MongoDB · Git · Postman
+- **Currently developing:** Java · Spring Boot · automated testing · backend architecture
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> This profile distinguishes professional experience from technologies studied or used in personal projects.
 
-### Dados & Ferramentas
+## Contact
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Projeto em destaque
-
-### 🏃 [NoClipCode](https://github.com/Miguelito001/NoClipCode)
-
-Plataforma web de ferramentas para desenvolvedores criada para centralizar utilitários de **produtividade, conversão, formatação e manipulação de dados**.
-
-O projeto começou como um formatador de JSON e evoluiu para uma plataforma com múltiplas ferramentas voltadas para problemas recorrentes do desenvolvimento.
-
-**Stack:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+[LinkedIn](https://www.linkedin.com/in/miguelito001/) · [Portfolio](https://luizdesenvolvedor.vercel.app/) · [Credly](https://www.credly.com/users/Miguelito001/badges)
 
 ---
 
-## 🏅 Certificações
+<details>
+<summary>Português</summary>
 
-<a href="https://www.credly.com/users/Miguelito001/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/overview?username=Miguelito001&theme=github_dark" alt="Certificações e badges do Credly" />
-</a>
+Sou desenvolvedor de software com experiência em **sistemas corporativos, integrações, automações e regras de negócio**, trabalhando profissionalmente com **Groovy, SQL, Python e APIs REST**.
 
----
+Também desenvolvo produtos próprios com **TypeScript, React e Next.js**. Meus projetos em destaque são o [NoClipCode](https://www.noclipcode.com/), a [NoClipExtension](https://github.com/Miguelito001/NoClipExtension) e o [かな。](https://github.com/Miguelito001/kana).
 
-## 🔗 Onde me encontrar
+Atualmente aprofundo meus conhecimentos em **Java, Spring Boot, testes automatizados e arquitetura backend**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz_Miguel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelito001/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-luizdesenvolvedor-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luizdesenvolvedor.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Miguelito001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miguelito001)
+</details>
