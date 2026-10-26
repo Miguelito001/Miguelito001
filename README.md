@@ -1,48 +1,49 @@
 # Luiz Miguel — Software Developer
 
-**Backend • Systems Integration • Automation • TypeScript**
+**Backend · Systems Integration · Automation · Independent Products**
 
-Software developer working on enterprise systems, business rules, data processing, reporting and integrations. My professional work focuses on **Groovy, SQL, Python and REST APIs**; I also build independent web products with **TypeScript, React and Next.js**.
+Software developer working with enterprise systems, business rules, reports, data processing and integrations. My professional stack includes **Groovy, SQL, Python and REST APIs**. Outside work, I build and maintain web applications, developer tools and interactive projects.
 
 [Portfolio](https://luizdesenvolvedor.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/miguelito001/) · [NoClipCode](https://www.noclipcode.com/)
 
-## Selected work
+## Featured projects
 
-| Project | What it demonstrates | Links |
-|---|---|---|
-| **NoClipCode** | A browser-first toolkit with **58 utilities** for developers; local file processing and a privacy-first design | [Source](https://github.com/Miguelito001/NoClipCode) · [Live](https://www.noclipcode.com/) |
-| **NoClipExtension** | A Chrome extension for text snippets and developer utilities, including support for input fields, contenteditable and CodeMirror 5 | [Source](https://github.com/Miguelito001/NoClipExtension) |
-| **かな。** | A Japanese-learning application covering writing, vocabulary, grammar, listening and reading | [Source](https://github.com/Miguelito001/kana) · [Live](https://kana-treino-rapido.software-rosso.chatgpt.site) |
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **NoClipCode** | Privacy-oriented developer toolkit with **58 browser-based utilities**, including file processing, converters and code tools | [Source](https://github.com/Miguelito001/NoClipCode) · [Live](https://www.noclipcode.com/) |
+| **Radar Legislativo Brasil** | Neutral, source-based daily view of legislative activity; static-first architecture designed around free infrastructure | [Source](https://github.com/Miguelito001/radar-legislativo-brasil) |
+| **FRACTURE: BULLETHEART** | Experimental real-time action roguelite featuring combat, procedural exploration and persistent progression; actively iterating on gameplay | [Source](https://github.com/Miguelito001/fracture-bulletheart) |
+| **NoClipExtension** | Chrome snippet expansion and productivity tools for inputs, contenteditable fields and CodeMirror 5 | [Source](https://github.com/Miguelito001/NoClipExtension) |
+| **かな。 (Kana)** | Japanese learning app with writing, vocabulary, grammar, listening and reading exercises | [Source](https://github.com/Miguelito001/kana) · [Live](https://kana-treino-rapido.software-rosso.chatgpt.site) |
 
-## Professional experience
+## What I work on
 
-- Developing and maintaining scripts, reports and integrations for enterprise software.
-- Investigating data inconsistencies, applying business rules and troubleshooting production issues.
-- Working with relational data, APIs and operational workflows.
-- Building public personal projects independently, from implementation to release.
+- **Enterprise development:** maintaining scripts, reporting workflows, validations and integrations for business systems.
+- **Investigation and reliability:** tracing data inconsistencies, troubleshooting failures and improving operational workflows.
+- **Product engineering:** designing, building, documenting and publishing independent applications.
+- **Current learning:** Java, Spring Boot, automated testing and backend architecture.
 
-## Technology
+## Technologies
 
-- **Professional:** Groovy · SQL · Python · REST APIs
-- **Web projects:** TypeScript · JavaScript · React · Next.js · Tailwind CSS
-- **Databases and tools:** PostgreSQL · MongoDB · Git · Postman
-- **Currently developing:** Java · Spring Boot · automated testing · backend architecture
+**Professional:** Groovy · SQL · Python · REST APIs  
+**Personal projects:** TypeScript · JavaScript · React · Next.js · HTML · CSS  
+**Tools and data:** Git · PostgreSQL · MongoDB · Postman
 
-> This profile distinguishes professional experience from technologies studied or used in personal projects.
+Professional experience and personal-project technologies are listed separately to represent their different contexts accurately.
 
-## Contact
+## Links
 
-[LinkedIn](https://www.linkedin.com/in/miguelito001/) · [Portfolio](https://luizdesenvolvedor.vercel.app/) · [Credly](https://www.credly.com/users/Miguelito001/badges)
+[Portfolio](https://luizdesenvolvedor.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/miguelito001/) · [Credly](https://www.credly.com/users/Miguelito001/badges)
 
 ---
 
 <details>
 <summary>Português</summary>
 
-Sou desenvolvedor de software com experiência em **sistemas corporativos, integrações, automações e regras de negócio**, trabalhando profissionalmente com **Groovy, SQL, Python e APIs REST**.
+Sou desenvolvedor de software com atuação em **sistemas corporativos, integrações, automações, regras de negócio e relatórios**, usando profissionalmente **Groovy, SQL, Python e APIs REST**.
 
-Também desenvolvo produtos próprios com **TypeScript, React e Next.js**. Meus projetos em destaque são o [NoClipCode](https://www.noclipcode.com/), a [NoClipExtension](https://github.com/Miguelito001/NoClipExtension) e o [かな。](https://github.com/Miguelito001/kana).
+Também desenvolvo produtos próprios. Entre eles estão o **[NoClipCode](https://www.noclipcode.com/)** (58 utilitários no navegador), o **[Radar Legislativo Brasil](https://github.com/Miguelito001/radar-legislativo-brasil)** (consulta diária de atividades legislativas baseada em fontes oficiais), o **[FRACTURE: BULLETHEART](https://github.com/Miguelito001/fracture-bulletheart)** (jogo de ação em desenvolvimento), a **[NoClipExtension](https://github.com/Miguelito001/NoClipExtension)** e o **[かな。](https://github.com/Miguelito001/kana)** (treinamento de japonês).
 
-Atualmente aprofundo meus conhecimentos em **Java, Spring Boot, testes automatizados e arquitetura backend**.
+Estou aprofundando conhecimentos em **Java, Spring Boot, testes automatizados e arquitetura backend**. Procuro construir projetos úteis, documentados e verificáveis, mantendo clara a diferença entre experiência profissional e exploração pessoal.
 
 </details>
